@@ -1,4 +1,4 @@
-# catanddogpredictor
+# MalariaDetection
 
 A new Flutter project.
 
